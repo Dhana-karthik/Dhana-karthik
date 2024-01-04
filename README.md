@@ -5,10 +5,9 @@
 
 <div backgroung-color=#FBD603>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="500">
-  <div>
-    <h1 align ="center">E Dhanakarthik</h1>
-<h4 align="center">A curious developer from India , who believes in hard work and never giveup policy</h4>
-  </div>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+curious +developer+from+India;who+believes+consistency+is+the+key!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhana-karthik&label=Profile%20views&color=0e75b6&style=flat" alt="dhana-karthik" /> </p>
 
