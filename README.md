@@ -33,4 +33,12 @@
 ![snake gif](https://github.com/Dhana-karthik/Dhana-karthik/blob/output/github-contribution-grid-snake.gif)
 
 <hr/>
+ <br>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dhana-karthik/Dhana-karthik/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
