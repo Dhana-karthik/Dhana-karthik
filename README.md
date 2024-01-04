@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/dhanakarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhanakarthik" height="30" width="40" /></a>
 <a href="https://instagram.com/dhanaa_karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanaa_karthik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/e_dhanakarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="e_dhanakarthik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/e dhanakarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e dhanakarthik" height="30" width="40" /></a>
+<a href="https://leetcode.com/dhana_karthik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e dhanakarthik" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
