@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="e.dhanakarthik@gmail.com" target="blank"><img align="center" src="gmail_animation.gif
-" height="60" width="60" /></a>
+ <a href="e.dhanakarthik@gmail.com" target="blank"><img align="center" src="https://github.com/Dhana-karthik/Dhana-karthik/blob/main/gmail_animation.gif" height="60" width="60" /></a>
 <a href="https://linkedin.com/in/dhana-karthik" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" width="60" /></a>
 <a href="https://stackoverflow.com/users/dhanakarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhanakarthik" height="60" width="60" /></a>
 <a href="https://instagram.com/dhanaa_karthik" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="dhanaa_karthik" height="60" width="60" /></a>
