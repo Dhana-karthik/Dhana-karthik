@@ -8,7 +8,8 @@
  <p align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Dhana+Karthik!;" />
-</p></div>
+  <br><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+ </p></div>
 <h3 align="center">A curious software developer from India 🇮🇳</h3>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhana-karthik&label=Profile%20views&color=0e75b6&style=flat" alt="Dhana-karthik" /> </p>
