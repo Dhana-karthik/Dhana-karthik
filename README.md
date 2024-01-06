@@ -1,9 +1,4 @@
-
-
-
-
-<div backgroung-color=#FBD603>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<div backgroung-color=#FBD603><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
  <p align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Dhana+Karthik!;" />
@@ -12,7 +7,7 @@
 <h3 align="center">A curious software developer from India 🇮🇳</h3>
 </br>
 
-<p  align ="center">Contact : <a href ="e.dhanakarthik@gmail.com">e.dhanakarthik@gmail.com</a></p>p
+<p  align ="center">Contact : e.dhanakarthik@gmail.com </p>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhana-karthik&label=Profile%20views&color=0e75b6&style=flat" alt="Dhana-karthik" /> </p>
 
