@@ -7,7 +7,14 @@
 <h3 align="center">A curious software developer from India 🇮🇳</h3>
 </br>
 
-<p  align ="center">Contact : e.dhanakarthik@gmail.com </p>
+<h4  align ="center"> contact: </h4>
+<h4  align ="center">               
+ 
+ <sub align ="center" >[![Gmail Badge](https://img.shields.io/badge/-e.dhanakarthik@gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:e.dhanakarthik@gmail.com)</sub>   
+</h4>
+
+
+
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhana-karthik&label=Profile%20views&color=0e75b6&style=flat" alt="Dhana-karthik" /> </p>
 
