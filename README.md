@@ -11,6 +11,7 @@
  </p></div>
 <h3 align="center">A curious software developer from India 🇮🇳</h3>
 </br>
+ <sub>[![Gmail Badge](https://img.shields.io/badge/-e.dhanakarthik@gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:e.dhanakarthik@gmail.com)</sub>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhana-karthik&label=Profile%20views&color=0e75b6&style=flat" alt="Dhana-karthik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhana-karthik" alt="dhana-karthik" /></a> </p>
