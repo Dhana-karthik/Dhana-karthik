@@ -37,15 +37,6 @@
 
 </p>
 <br><br>
-
-
-
-
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhana-karthik&show_icons=true&locale=en&layout=compact" alt="dhana-karthik" /></p>
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhana-karthik&show_icons=true&locale=en" alt="dhana-karthik" /></p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhana-karthik&" alt="dhana-karthik" /></p>
-
-[![DHANAKARTHIK's GitHub Graph :](https://github-readme-activity-graph.vercel.app/graph?username=Dhana-karthik&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/Dhana-karthik/)
-
-
