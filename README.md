@@ -45,4 +45,4 @@
 <br><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhana-karthik&show_icons=true&locale=en&layout=compact" alt="dhana-karthik" /></p>
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhana-karthik&show_icons=true&locale=en" alt="dhana-karthik" /></p>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhana-karthik&" alt="dhana-karthik" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhana-karthik" alt="dhana-karthik" /></p>
