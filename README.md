@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Dhana+Karthik!;" />
   <br><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
  </p></div>
-<h3 align="center">A curious software developer from India 🇮🇳</h3>
+<h3 align="center">A curious Data scientist from United kingdom 🇮🇳</h3>
 </br>
 
 <h4  align ="center"> contact: </h4>
