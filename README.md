@@ -7,21 +7,14 @@
  </p></div>
 <h3 align="center">A curious Data scientist from United kingdom 🇬🇧</h3>
 </br>
-
-<h4  align ="center"> contact: </h4>
 <h4  align ="center">               
  
  <sub align ="center" >[![Gmail Badge](https://img.shields.io/badge/-e.dhanakarthik@gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:e.dhanakarthik@gmail.com)</sub>   
 </h4>
 
 
-
- 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhana-karthik&label=Profile%20views&color=0e75b6&style=flat" alt="Dhana-karthik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhana-karthik" alt="dhana-karthik" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
 <a id ="linked in" href="https://www.linkedin.com/in/dhanakarthik-ejumalai/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" width="60" /></a>
@@ -31,20 +24,4 @@
 <a id ="leetcode" href="https://leetcode.com/dhana_karthik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e dhanakarthik" height="60" width="60" /></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="70" width="70"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70" width="70"/>   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="70" width="70"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="70" width="70"/> </a> 
- </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="70" width="70"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="70" width="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70" width="70"/> </a> 
-
- <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="70" width="70">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" height="70" width="70">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="70" width="70">
- <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="70" width="70">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" height="70" width="70">
-</p>
-
-</p>
-<br><br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhana-karthik&show_icons=true&locale=en&layout=compact" alt="dhana-karthik" /></p>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhana-karthik&show_icons=true&locale=en" alt="dhana-karthik" /></p>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhana-karthik" alt="dhana-karthik" /></p>
+ 
